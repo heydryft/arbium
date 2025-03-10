@@ -1,0 +1,24 @@
+{
+  "name": "arbium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jup-ag/api": "^6.0.40",
+    "@jup-ag/core": "^4.0.0-beta.21",
+    "@mrgnlabs/marginfi-client-v2": "^5.0.0",
+    "@solana-developers/helpers": "^2.8.0",
+    "@solana-program/token": "^0.5.1",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.98.0",
+    "bignumber.js": "^9.1.2",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.7"
+  }
+}
